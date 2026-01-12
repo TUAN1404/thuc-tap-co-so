@@ -1,5 +1,4 @@
 # Thực tập cơ sở
-
 Họ tên: Nguyễn Văn Tuấn
 MSSV: B23DCKH128
 Ngành: Khoa học máy tính – AI
